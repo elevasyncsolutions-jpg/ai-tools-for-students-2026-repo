@@ -1,2 +1,13 @@
-# ai-tools-for-students-2026-repo
-AI Tools for Students 2026 - Study Smarter
+# Ai Tools For Students 2026 Repo
+
+> AI tools for making money.
+
+Full database at [aitoolsgems.netlify.app](https://aitoolsgems.netlify.app/)
+
+## Tools
+- ChatGPT, Canva, CapCut, Midjourney, Jasper, ElevenLabs
+
+## Get Access
+[aitoolsgems.netlify.app](https://aitoolsgems.netlify.app/)
+
+MIT License
